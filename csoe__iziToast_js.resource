@@ -1,6 +1,7 @@
 /*
 * iziToast | v1.2.0
-1. Added first time
+1. Added first time - second time this line has changed
+1. Added for the second time 
 * http://izitoast.marcelodolce.com
 * by Marcelo Dolce.
 */
